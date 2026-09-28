@@ -62,6 +62,7 @@ It is available in the United States to people 18 and older with a Meta account,
 
 - [How Muse Handles Your Privacy, Safety, and Security](https://www.meta.com/help/artificial-intelligence/1047255454427887/) 🎖️ - Help Center article on data access, approvals, and controls.
 - [Meta Muse Features and Privacy Guide](https://www.digitalapplied.com/blog/meta-muse-personal-ai-agent-guide) - Overview of capabilities alongside the privacy settings worth changing.
+- [How to Make Muse Run Your Money While You Sleep](https://x.com/ian_finlay/status/2103206219599274464) - Eight copy-paste finance automations with scheduling and safety setup.
 
 ## Connectors and Integrations
 
@@ -98,6 +99,7 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [Should You Let Muse Manage Your Money?](https://finance.yahoo.com/personal-finance/banking/article/metas-muse-says-it-can-manage-your-money-should-you-let-it-141040045.html) - Yahoo Finance on the risks of connecting financial accounts.
 
 - [I Asked Meta's Muse for Its Filesystem and It Sent Me 6.8 GB](https://www.reddit.com/r/BetterOffline/comments/1wpdpnr/i_asked_metas_muse_for_its_filesystem_and_it_sent/) - Hands-on experiment showing Muse handing over its filesystem, with active community discussion.
+- [Before You Connect Your Inbox to Meta Muse](https://x.com/ronyspark/status/2104077587647492523) - Clause-by-clause analysis of Muse's privacy policy and ToS for connecting your inbox.
 
 ## Reviews and Hands-On
 
