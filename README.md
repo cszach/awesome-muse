@@ -54,6 +54,7 @@ It is available in the United States to people 18 and older with a Meta account,
 - [50 Real Ways to Use Meta Muse](https://sidsaladi.substack.com/p/meta-muse-use-cases-50-real-ways) - Fifty use cases for everyday errands, work, and family life.
 - [Musecases](https://musecases.netlify.app/) - 150+ real Muse use cases collected from X.
 - [What People Are Actually Doing with Meta Muse](https://learnaiwithmariah.com/guides/meta-muse-use-cases/) - Roundup of what early users are doing with Muse.
+- [Ship with Muse](https://shipwithmuse.live/) - Curated catalog of 1,078+ real builds made with Meta Muse, each linked to its public source.
 
 ## Tips and Best Practices
 
