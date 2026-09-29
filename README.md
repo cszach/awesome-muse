@@ -101,13 +101,13 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
 - [I Asked Meta's Muse for Its Filesystem and It Sent Me 6.8 GB](https://www.reddit.com/r/BetterOffline/comments/1wpdpnr/i_asked_metas_muse_for_its_filesystem_and_it_sent/) - Hands-on experiment showing Muse handing over its filesystem, with active community discussion.
 - [Before You Connect Your Inbox to Meta Muse](https://x.com/ronyspark/status/2104077587647492523) - Clause-by-clause analysis of Muse's privacy policy and ToS for connecting your inbox.
+- [Muse Plaid Bank Linking: What It Can Actually See](https://www.explainx.ai/blog/meta-muse-plaid-bank-account-linking-2026) - Independent breakdown of Muse's Plaid bank linking: read-only balances and transactions, not a payment rail.
 
 ## Reviews and Hands-On
 
 - [Meta Says Its Muse AI Agent Can Do Things for You. I Put It to the Test](https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent) - CNN's hands-on with real errands.
 - [I Put Meta's Muse AI Agent to Work](https://www.barrons.com/articles/meta-muse-ai-review-29077e2f) - Barron's test by a non-power user: canceling subscriptions and finding a doctor, including what it got wrong.
-
-- [Meta Muse in 13 Real-World Tests](https://dev.to/hao_kang_82922526dfe5d934/meta-muse-in-13-real-world-tests-what-to-delegate-what-to-verify-3hlh) - Synthesis of 13 hands-on tests with a day-one safety checklist and a copy-paste task template.
+- [I Tried Meta's Muse AI Agent. It's Helpful and Scary at the Same Time.](https://www.wsj.com/tech/personal-tech/meta-muse-ai-agent-review-ab956101) - WSJ's Nicole Nguyen spends a week on real errands with Muse, then weighs the privacy tradeoffs.
 
 ## News and Analysis
 
@@ -119,6 +119,7 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [Stratechery on Muse](https://stratechery.com/topic/digital-assistants/muse/) - Ben Thompson's ongoing strategic analysis.
 - [Meta's New AI Agent Is an Instant Hit](https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af) - WSJ on Muse's first two weeks: the Amazon block, trust surveys, and revenue projections.
 - [Spotify Is First Music Service to Connect to Meta Muse](https://musically.com/2026/09/24/spotify-is-first-music-service-to-connect-to-meta-muse-ai-agent/) - Music Ally on Spotify's Muse connector: playback, playlists, and podcast controls by conversation.
+- [Meta expands Muse AI agent for small businesses](https://www.reuters.com/business/media-telecom/meta-expands-muse-ai-agent-small-businesses-2026-09-29/) - Reuters on Muse for Small Business: connectors for Shopify, QuickBooks, Slack, and more.
 
 ## Videos and Podcasts
 
