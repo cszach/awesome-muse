@@ -64,6 +64,7 @@ It is available in the United States to people 18 and older with a Meta account,
 - [How Muse Handles Your Privacy, Safety, and Security](https://www.meta.com/help/artificial-intelligence/1047255454427887/) 🎖️ - Help Center article on data access, approvals, and controls.
 - [Meta Muse Features and Privacy Guide](https://www.digitalapplied.com/blog/meta-muse-personal-ai-agent-guide) - Overview of capabilities alongside the privacy settings worth changing.
 - [How to Make Muse Run Your Money While You Sleep](https://x.com/ian_finlay/status/2103206219599274464) - Eight copy-paste finance automations with scheduling and safety setup.
+- [The Unofficial Muse Handbook](https://omnilenscodex.substack.com/p/the-unofficial-muse-handbook) - Evidence-labeled handbook on what jobs fit Muse, where the evidence is strongest, and where it still fails.
 
 ## Connectors and Integrations
 
@@ -102,6 +103,7 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [I Asked Meta's Muse for Its Filesystem and It Sent Me 6.8 GB](https://www.reddit.com/r/BetterOffline/comments/1wpdpnr/i_asked_metas_muse_for_its_filesystem_and_it_sent/) - Hands-on experiment showing Muse handing over its filesystem, with active community discussion.
 - [Before You Connect Your Inbox to Meta Muse](https://x.com/ronyspark/status/2104077587647492523) - Clause-by-clause analysis of Muse's privacy policy and ToS for connecting your inbox.
 - [Muse Plaid Bank Linking: What It Can Actually See](https://www.explainx.ai/blog/meta-muse-plaid-bank-account-linking-2026) - Independent breakdown of Muse's Plaid bank linking: read-only balances and transactions, not a payment rail.
+- [Meta's Muse Sent a Stranger to a User's Door](https://memeburn.com/metas-muse-sent-a-stranger-to-a-users-door-its-permission-settings-explain-why/) - The Marketplace address leak, a three-week timeline of Muse privacy incidents, and the approval-model weakness behind them, with settings to tighten.
 
 ## Reviews and Hands-On
 
