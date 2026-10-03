@@ -82,6 +82,7 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [Muse Proxy](https://github.com/NeedsChloesure/muse-proxy) - Scoped API-key gateway that lets Muse reach self-hosted CalDAV and CardDAV servers without storing passwords.
 - [PIL](https://github.com/pjpoulose/PIL) - Muse skill that turns your saved Instagram posts into a private, searchable knowledge base.
 - [Agent Connector Launch Kit](https://github.com/camirian/agent-connector-launch-kit) - Starter kit for building OpenAPI-based connectors for Muse, with test tooling and notes from a real submission.
+- [burner](https://github.com/useburner/burner) - Skill and command-line tool that lets Muse use the apps on a spare Android phone.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
