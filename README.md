@@ -34,7 +34,7 @@ As of September 2026:
 
 Muse is a personal AI agent that acts on goals you describe in plain language, using a browser and your connected apps, and keeps working after you leave the app. Read-only and low-risk steps run on their own; actions that send, buy, or share information stop and wait for your approval. Each user's tasks run in an isolated cloud computer, powered by Meta's Muse Spark models.
 
-It is available in the United States to people 18 and older with a Meta account, on mobile and Mac, with a free tier and paid Power and Maximum plans.
+It is available in the United States and Canada to people 18 and older with a Meta account, on mobile and Mac, with a free tier and paid Power and Maximum plans.
 
 ## Getting Started
 
