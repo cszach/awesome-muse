@@ -65,6 +65,7 @@ It is available in the United States and Canada to people 18 and older with a Me
 - [Meta Muse Features and Privacy Guide](https://www.digitalapplied.com/blog/meta-muse-personal-ai-agent-guide) - Overview of capabilities alongside the privacy settings worth changing.
 - [How to Make Muse Run Your Money While You Sleep](https://x.com/ian_finlay/status/2103206219599274464) - Eight copy-paste finance automations with scheduling and safety setup.
 - [The Unofficial Muse Handbook](https://omnilenscodex.substack.com/p/the-unofficial-muse-handbook) - Evidence-labeled handbook on what jobs fit Muse, where the evidence is strongest, and where it still fails.
+- [Automating Real Work with Muse: Connectors + Scheduled Tasks](https://dev.to/ying_liao_0a481102ff971b4/automating-real-work-with-muse-connectors-scheduled-tasks-58co) - Hands-on guide to Muse's two automation primitives: structuring connectors and scheduled tasks around outcomes, not steps.
 
 ## Connectors and Integrations
 
@@ -85,6 +86,7 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [burner](https://github.com/useburner/burner) - Skill and command-line tool that lets Muse use the apps on a spare Android phone.
 - [Muse Gadget SDK](https://github.com/facebookincubator/muse-gadget-sdk) - Meta's open-source ESP32 firmware and Linux SDK for building your own Muse hardware: displays, buttons, sensors, and actuators.
 - [Muse Pocket](https://github.com/viticci/muse-pocket) - E-paper Muse companion for the Xteink X4 Pro e-reader, showing your Muse's character and live status, built on the Gadget SDK.
+- [Muse-Chat-MCP](https://github.com/duclm1x1/Muse-Chat-MCP) - MCP server plus OpenAI-compatible shim that drives your own logged-in Chrome for muse.ai. Browser-automation approach; review what it can touch before connecting.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
@@ -107,6 +109,9 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 - [Before You Connect Your Inbox to Meta Muse](https://x.com/ronyspark/status/2104077587647492523) - Clause-by-clause analysis of Muse's privacy policy and ToS for connecting your inbox.
 - [Muse Plaid Bank Linking: What It Can Actually See](https://www.explainx.ai/blog/meta-muse-plaid-bank-account-linking-2026) - Independent breakdown of Muse's Plaid bank linking: read-only balances and transactions, not a payment rail.
 - [Meta's Muse Sent a Stranger to a User's Door](https://memeburn.com/metas-muse-sent-a-stranger-to-a-users-door-its-permission-settings-explain-why/) - The Marketplace address leak, a three-week timeline of Muse privacy incidents, and the approval-model weakness behind them, with settings to tighten.
+- [AI personal agents are having a moment. Are they safe to use?](https://www.usatoday.com/story/tech/2026/10/01/ai-personal-agent-security/91992649007/) - USA Today: a reviewer's Muse gave away his home address, accepted a lowball Marketplace offer, and claimed he was at a pickup spot; Meta's explanation, reviewed transcripts, and Forter/Visa data.
+- [Meta Muse: Personal Agent + Sentinel VM Security](https://www.explainx.ai/blog/meta-muse-personal-agent-launch-sentinel-vm-security-2026) - explainx.ai teardown of the Secure VM and Sentinel architecture: where credentials live, the five anti-prompt-injection layers, and the public bug bounty.
+- [Dox for Me, O Muse](https://newsletter.hntrbrk.com/p/dox-for-me-o-muse-metas-new-ai-agent) - Hunterbrook investigation: Muse compiled lists of real Facebook and Instagram accounts in vulnerable groups on plain-language request, with safeguards easily evaded; Meta asked for details, no comment.
 
 ## Reviews and Hands-On
 
@@ -117,6 +122,7 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 ## News and Analysis
 
 - [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) - TechCrunch on the open-source Muse Gadgets launch, the free Home Link dongle giveaway, and Meta's pitch to hardware hackers.
+- [Meta Muse crosses 5 million downloads in 22 days as weekly users top 3 million](https://www.storyboard18.com/digital/meta-muse-ai-agent-hits-5-million-us-downloads-in-22-days-ws-l-111781.htm) - Sensor Tower data: 5M US downloads in 22 days with over 3M weekly users, outpacing ChatGPT, Grok, and Claude to the milestone.
 - [Everything New Coming to Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) - TechCrunch's roundup of the Connect 2026 announcements.
 - [Meta Debuts Its Muse AI Agent. Will Consumers Trust It?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) - TechCrunch's launch coverage.
 - [Meta Is Putting Its Muscle Behind Muse](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/) - TechCrunch on Muse's early growth.
