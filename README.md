@@ -83,6 +83,8 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [PIL](https://github.com/pjpoulose/PIL) - Muse skill that turns your saved Instagram posts into a private, searchable knowledge base.
 - [Agent Connector Launch Kit](https://github.com/camirian/agent-connector-launch-kit) - Starter kit for building OpenAPI-based connectors for Muse, with test tooling and notes from a real submission.
 - [burner](https://github.com/useburner/burner) - Skill and command-line tool that lets Muse use the apps on a spare Android phone.
+- [Muse Gadget SDK](https://github.com/facebookincubator/muse-gadget-sdk) - Meta's open-source ESP32 firmware and Linux SDK for building your own Muse hardware: displays, buttons, sensors, and actuators.
+- [Muse Pocket](https://github.com/viticci/muse-pocket) - E-paper Muse companion for the Xteink X4 Pro e-reader, showing your Muse's character and live status, built on the Gadget SDK.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
@@ -114,6 +116,7 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
 ## News and Analysis
 
+- [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) - TechCrunch on the open-source Muse Gadgets launch, the free Home Link dongle giveaway, and Meta's pitch to hardware hackers.
 - [Everything New Coming to Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) - TechCrunch's roundup of the Connect 2026 announcements.
 - [Meta Debuts Its Muse AI Agent. Will Consumers Trust It?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) - TechCrunch's launch coverage.
 - [Meta Is Putting Its Muscle Behind Muse](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/) - TechCrunch on Muse's early growth.
