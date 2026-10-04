@@ -73,7 +73,6 @@ It is available in the United States and Canada to people 18 and older with a Me
 Connectors give Muse access to your services, such as email, calendar, shopping, and smart home.
 
 - [Meta AI Connectors](https://dev.meta.ai/products/connectors) 🎖️ - Developer platform for building connectors that Muse can use.
-- [Meta Muse Connectors List](https://postfa.st/blog/meta-muse-connectors-list) - Regularly updated list of available connectors.
 - [What the Muse Connector Application Asks For](https://stacktr.ee/blog/muse-connector-platform) - Walkthrough of the connector platform's application form.
 - [dowser](https://github.com/harris-ryder/dowser) - Read-only MCP connector that finds the money hiding in your life; works with Muse and other agents.
 - [muse-linkedin-connector](https://github.com/gops22/muse-linkedin-connector) - Custom connector linking Muse to LinkedIn.
