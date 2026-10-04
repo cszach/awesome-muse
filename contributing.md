@@ -2,7 +2,9 @@
 
 Thanks for helping make this list better. Awesome Muse is **curated, not
 collected**: we add fewer things than we are sent, on purpose. A short list of
-great links is more useful than a long list of okay ones.
+great links is more useful than a long list of okay ones. It's a toolbox,
+not a newspaper: we favor things that give the reader something to *do*
+(build, connect, try) over things to *know*.
 
 ## What belongs here
 
@@ -14,7 +16,7 @@ well:
 - Connectors, skills, and open-source tools built for Muse.
 - Independent reviews, security research, and original reporting.
 - Talks, interviews, and podcasts.
-- News articles and social posts only when they are the original source of substantive content (an experiment, original analysis) that is not published elsewhere.
+- News only when it changes what a reader can do with Muse: launches, new capabilities, availability or policy changes. Milestones and download counts age out in weeks.
 
 Out of scope: the Muse Spark and Muse Glimmer models, Muse Code, the Meta Model
 API, and anything else named "Muse".
@@ -34,6 +36,7 @@ We do not accept:
 - Referral or affiliate links.
 - Tools that break Meta's terms of service.
 - SEO "alternatives" pages or competitor marketing.
+- List-of-lists and competitor catalogs: list the thing itself, not someone else's list.
 - Low-effort, AI-generated content.
 
 ## How to submit
