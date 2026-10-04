@@ -55,6 +55,7 @@ It is available in the United States and Canada to people 18 and older with a Me
 - [Musecases](https://musecases.netlify.app/) - 150+ real Muse use cases collected from X.
 - [What People Are Actually Doing with Meta Muse](https://learnaiwithmariah.com/guides/meta-muse-use-cases/) - Roundup of what early users are doing with Muse.
 - [Ship with Muse](https://shipwithmuse.live/) - Curated catalog of 1,078+ real builds made with Meta Muse, each linked to its public source.
+- [Cal AI Alternative: Turn Meta Muse Into Your Calorie Tracker](https://sidsaladi.substack.com/p/cal-ai-alternative-turn-meta-muse) - A 15-day experiment using Muse as a free calorie logger with one setup prompt, pitched as a real alternative to a paid tracking app.
 
 ## Tips and Best Practices
 
@@ -122,6 +123,8 @@ Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 ## News and Analysis
 
 - [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) - TechCrunch on the open-source Muse Gadgets launch, the free Home Link dongle giveaway, and Meta's pitch to hardware hackers.
+- [Don't Let the Adorable AI Agents Fool You](https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/) - Karissa Bell argues Muse's cute Jolly avatar hides the real risk of broad account access, and gets the backstory on the viral Marketplace address mix-up (an "allow always" misunderstanding).
+- [Musing About Meta's Muse](https://paulkedrosky.com/musing-about-metas-muse/) - Paul Kedrosky, after a couple of weeks on email and calendar scanning, argues Muse's real shift is its ambient invisibility, not the chatbot.
 - [Meta Muse crosses 5 million downloads in 22 days as weekly users top 3 million](https://www.storyboard18.com/digital/meta-muse-ai-agent-hits-5-million-us-downloads-in-22-days-ws-l-111781.htm) - Sensor Tower data: 5M US downloads in 22 days with over 3M weekly users, outpacing ChatGPT, Grok, and Claude to the milestone.
 - [Everything New Coming to Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) - TechCrunch's roundup of the Connect 2026 announcements.
 - [Meta Debuts Its Muse AI Agent. Will Consumers Trust It?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) - TechCrunch's launch coverage.
