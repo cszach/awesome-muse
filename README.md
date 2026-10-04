@@ -75,6 +75,8 @@ Connectors give Muse access to your services, such as email, calendar, shopping,
 - [Meta AI Connectors](https://dev.meta.ai/products/connectors) 🎖️ - Developer platform for building connectors that Muse can use.
 - [Meta Muse Connectors List](https://postfa.st/blog/meta-muse-connectors-list) - Regularly updated list of available connectors.
 - [What the Muse Connector Application Asks For](https://stacktr.ee/blog/muse-connector-platform) - Walkthrough of the connector platform's application form.
+- [dowser](https://github.com/harris-ryder/dowser) - Read-only MCP connector that finds the money hiding in your life; works with Muse and other agents.
+- [muse-linkedin-connector](https://github.com/gops22/muse-linkedin-connector) - Custom connector linking Muse to LinkedIn.
 
 ## Community Tools
 
@@ -90,6 +92,17 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [Muse-Chat-MCP](https://github.com/duclm1x1/Muse-Chat-MCP) - MCP server plus OpenAI-compatible shim that drives your own logged-in Chrome for muse.ai. Browser-automation approach; review what it can touch before connecting.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
+
+## Community Builds
+
+What people are building with Muse and the Gadget SDK: hardware ports, demos, and real projects. Early days, expect rough edges.
+
+- [musechan](https://github.com/Tjtelenda/musechan) - Muse on a StackChan: the Gadget SDK ported to the M5Stack StackChan (CoreS3), with head servos, live face control, and pet reactions.
+- [muse-gadget-xiaozhi](https://github.com/moerdowo/muse-gadget-xiaozhi) - Muse's gadget UI (pixel character, push-to-talk, captions) running on xiaozhi.me voice-AI hardware (ESP32-S3).
+- [muse-gadget-tufty](https://github.com/wobsoriano/muse-gadget-tufty) - Unofficial MicroPython port of the Gadget SDK client for the Pimoroni Tufty 2350 badge.
+- [muse-ai-passport](https://github.com/timzenxia/muse-ai-passport) - Unofficial port of the Gadget SDK firmware to the FoloToy AI Passport (ESP32-C3) with push-to-talk.
+- [homeassistant-addon-muse-gadget](https://github.com/Josh-Archer/homeassistant-addon-muse-gadget) - Home Assistant add-on that bridges Meta Muse via the Gadget SDK.
+- [muse-gadget-c6-n16](https://github.com/assix/muse-gadget-c6-n16) - Gadget SDK bring-up on a generic ESP32-C6-N16 (no PSRAM), with board overlay and notes.
 
 ## Where to Use Muse
 
