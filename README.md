@@ -99,7 +99,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 
 - [musechan](https://github.com/Tjtelenda/musechan) - Muse on a StackChan: the Gadget SDK ported to the M5Stack StackChan (CoreS3), with head servos, live face control, and pet reactions.
 - [muse-gadget-xiaozhi](https://github.com/moerdowo/muse-gadget-xiaozhi) - Muse's gadget UI (pixel character, push-to-talk, captions) running on xiaozhi.me voice-AI hardware (ESP32-S3).
-- [muse-gadget-tufty](https://github.com/wobsoriano/muse-gadget-tufty) - Unofficial MicroPython port of the Gadget SDK client for the Pimoroni Tufty 2350 badge.
+- [muse-gadget-psp](https://github.com/wobsoriano/muse-gadget-psp) - Muse running natively on a Sony PSP: hold R to talk, replies on screen and out loud, built on a C port of the Gadget SDK (needs PSP-3000 + custom firmware).
 - [muse-ai-passport](https://github.com/timzenxia/muse-ai-passport) - Unofficial port of the Gadget SDK firmware to the FoloToy AI Passport (ESP32-C3) with push-to-talk.
 - [homeassistant-addon-muse-gadget](https://github.com/Josh-Archer/homeassistant-addon-muse-gadget) - Home Assistant add-on that bridges Meta Muse via the Gadget SDK.
 - [muse-gadget-c6-n16](https://github.com/assix/muse-gadget-c6-n16) - Gadget SDK bring-up on a generic ESP32-C6-N16 (no PSRAM), with board overlay and notes.
