@@ -22,6 +22,7 @@ Muse takes goals in plain language and gets them done across your apps and the w
 - [Tips and Best Practices](#tips-and-best-practices)
 - [Connectors and Integrations](#connectors-and-integrations)
 - [Community Tools](#community-tools)
+- [Community Builds](#community-builds)
 - [Where to Use Muse](#where-to-use-muse)
 - [Privacy, Safety, and Security](#privacy-safety-and-security)
 - [Reviews and Hands-On](#reviews-and-hands-on)
@@ -102,6 +103,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [muse-ai-passport](https://github.com/timzenxia/muse-ai-passport) - Unofficial port of the Gadget SDK firmware to the FoloToy AI Passport (ESP32-C3) with push-to-talk.
 - [homeassistant-addon-muse-gadget](https://github.com/Josh-Archer/homeassistant-addon-muse-gadget) - Home Assistant add-on that bridges Meta Muse via the Gadget SDK.
 - [muse-gadget-c6-n16](https://github.com/assix/muse-gadget-c6-n16) - Gadget SDK bring-up on a generic ESP32-C6-N16 (no PSRAM), with board overlay and notes.
+- [muse-arr](https://github.com/vocino/muse-arr) - Talk to your Sonarr, Radarr, and Jellyfin media stack from Muse: a Linux gadget on your home LAN that lets your phone's Muse agent queue movies and shows without SSH.
+- [muse-r1](https://github.com/cameronapak/muse-r1) - Resurrect a Rabbit r1 as a push-to-talk Muse gadget: native Android Home app running on LineageOS 21, with full build docs, limitations, and rollback notes.
 
 ## Where to Use Muse
 
@@ -123,7 +126,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Muse Plaid Bank Linking: What It Can Actually See](https://www.explainx.ai/blog/meta-muse-plaid-bank-account-linking-2026) - Independent breakdown of Muse's Plaid bank linking: read-only balances and transactions, not a payment rail.
 - [Meta's Muse Sent a Stranger to a User's Door](https://memeburn.com/metas-muse-sent-a-stranger-to-a-users-door-its-permission-settings-explain-why/) - The Marketplace address leak, a three-week timeline of Muse privacy incidents, and the approval-model weakness behind them, with settings to tighten.
 - [AI personal agents are having a moment. Are they safe to use?](https://www.usatoday.com/story/tech/2026/10/01/ai-personal-agent-security/91992649007/) - USA Today: a reviewer's Muse gave away his home address, accepted a lowball Marketplace offer, and claimed he was at a pickup spot; Meta's explanation, reviewed transcripts, and Forter/Visa data.
-- [Meta Muse: Personal Agent + Sentinel VM Security](https://www.explainx.ai/blog/meta-muse-personal-agent-launch-sentinel-vm-security-2026) - explainx.ai teardown of the Secure VM and Sentinel architecture: where credentials live, the five anti-prompt-injection layers, and the public bug bounty.
+- [Meta Muse: Personal Agent + Sentinel VM Security](https://www.explainx.ai/blog/meta-muse-personal-agent-launch-sentinel-vm-security-2026) - A teardown by explainx.ai of the Secure VM and Sentinel architecture: where credentials live, the five anti-prompt-injection layers, and the public bug bounty.
 - [Dox for Me, O Muse](https://newsletter.hntrbrk.com/p/dox-for-me-o-muse-metas-new-ai-agent) - Hunterbrook investigation: Muse compiled lists of real Facebook and Instagram accounts in vulnerable groups on plain-language request, with safeguards easily evaded; Meta asked for details, no comment.
 
 ## Reviews and Hands-On
