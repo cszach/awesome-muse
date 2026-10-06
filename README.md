@@ -77,6 +77,7 @@ Connectors give Muse access to your services, such as email, calendar, shopping,
 - [What the Muse Connector Application Asks For](https://stacktr.ee/blog/muse-connector-platform) - Walkthrough of the connector platform's application form.
 - [dowser](https://github.com/harris-ryder/dowser) - Read-only MCP connector that finds the money hiding in your life; works with Muse and other agents.
 - [muse-linkedin-connector](https://github.com/gops22/muse-linkedin-connector) - Custom connector linking Muse to LinkedIn.
+- [muse-atlassian-skill](https://github.com/RobertDeRose/muse-atlassian-skill) - Workspace skills giving Muse Jira and Confluence access: search, read, create, and update from chat.
 
 ## Community Tools
 
@@ -90,6 +91,7 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [Muse Gadget SDK](https://github.com/facebookincubator/muse-gadget-sdk) - Meta's open-source ESP32 firmware and Linux SDK for building your own Muse hardware: displays, buttons, sensors, and actuators.
 - [Muse Pocket](https://github.com/viticci/muse-pocket) - E-paper Muse companion for the Xteink X4 Pro e-reader, showing your Muse's character and live status, built on the Gadget SDK.
 - [Muse-Chat-MCP](https://github.com/duclm1x1/Muse-Chat-MCP) - MCP server plus OpenAI-compatible shim that drives your own logged-in Chrome for muse.ai. Browser-automation approach; review what it can touch before connecting.
+- [muse-plex-skill](https://github.com/RobertBergman/muse-plex-skill) - Gadget skill that plays music from your Plex server on a Bluetooth speaker attached to the Muse device.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
@@ -105,6 +107,11 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [muse-gadget-c6-n16](https://github.com/assix/muse-gadget-c6-n16) - Gadget SDK bring-up on a generic ESP32-C6-N16 (no PSRAM), with board overlay and notes.
 - [muse-arr](https://github.com/vocino/muse-arr) - Talk to your Sonarr, Radarr, and Jellyfin media stack from Muse: a Linux gadget on your home LAN that lets your phone's Muse agent queue movies and shows without SSH.
 - [muse-r1](https://github.com/cameronapak/muse-r1) - Resurrect a Rabbit r1 as a push-to-talk Muse gadget: native Android Home app running on LineageOS 21, with full build docs, limitations, and rollback notes.
+- [waveshare-muse-gadget-sdk](https://github.com/wupsbr/waveshare-muse-gadget-sdk) - Gadget SDK on three Waveshare ESP32-S3 boards (LCD 1.85C, AMOLED 1.43C and 1.8) with spoken replies via ElevenLabs, unsolicited pushes, touch volume, and battery level.
+- [muse-gadget-everywhere](https://github.com/hypery11/muse-gadget-everywhere) - Open-source Android runtime that turns phones, tablets, and TVs into programmable Muse gadgets: display, media, voice, camera, and local automation.
+- [Muse-charm-mosaico](https://github.com/samyeei/Muse-charm-mosaico) - Voice AI companion on ESP-Mosaico hardware with push-to-talk, eight animated character states, and Muse-generated personas.
+- [luci-muse-gadget](https://github.com/burndown/luci-muse-gadget) - Runs the Gadget SDK Linux client on OpenWrt routers with a LuCI page, so your router shows up as a Muse gadget.
+- [muse-gadget-macos](https://github.com/rjohnt/muse-gadget-macos) - CoreBluetooth adapter that pairs a Mac with the Muse app as a display gadget, with a live browser preview.
 
 ## Where to Use Muse
 
@@ -140,11 +147,9 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) - TechCrunch on the open-source Muse Gadgets launch, the free Home Link dongle giveaway, and Meta's pitch to hardware hackers.
 - [Don't Let the Adorable AI Agents Fool You](https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/) - Karissa Bell argues Muse's cute Jolly avatar hides the real risk of broad account access, and gets the backstory on the viral Marketplace address mix-up (an "allow always" misunderstanding).
 - [Musing About Meta's Muse](https://paulkedrosky.com/musing-about-metas-muse/) - Paul Kedrosky, after a couple of weeks on email and calendar scanning, argues Muse's real shift is its ambient invisibility, not the chatbot.
-- [Meta Muse crosses 5 million downloads in 22 days as weekly users top 3 million](https://www.storyboard18.com/digital/meta-muse-ai-agent-hits-5-million-us-downloads-in-22-days-ws-l-111781.htm) - Sensor Tower data: 5M US downloads in 22 days with over 3M weekly users, outpacing ChatGPT, Grok, and Claude to the milestone.
 - [Everything New Coming to Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/) - TechCrunch's roundup of the Connect 2026 announcements.
 - [Meta Debuts Its Muse AI Agent. Will Consumers Trust It?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/) - TechCrunch's launch coverage.
 - [Meta Is Putting Its Muscle Behind Muse](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/) - TechCrunch on Muse's early growth.
-- [Meta's Muse Hit No. 1 on the App Store](https://tech.yahoo.com/ai/article/metas-ai-agent-muse-is-chasing-chatgpts-app-store-rise--and-hit-no-1-with-fewer-downloads-152809095.html) - Yahoo Tech on Muse's app store rise.
 - [Personal AI Agents Face a Public Reckoning](https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html) - CNBC on the privacy and safety debate around Muse.
 - [Stratechery on Muse](https://stratechery.com/topic/digital-assistants/muse/) - Ben Thompson's ongoing strategic analysis.
 - [Meta's New AI Agent Is an Instant Hit](https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af) - WSJ on Muse's first two weeks: the Amazon block, trust surveys, and revenue projections.
