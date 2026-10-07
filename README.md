@@ -135,6 +135,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [AI personal agents are having a moment. Are they safe to use?](https://www.usatoday.com/story/tech/2026/10/01/ai-personal-agent-security/91992649007/) - USA Today: a reviewer's Muse gave away his home address, accepted a lowball Marketplace offer, and claimed he was at a pickup spot; Meta's explanation, reviewed transcripts, and Forter/Visa data.
 - [Meta Muse: Personal Agent + Sentinel VM Security](https://www.explainx.ai/blog/meta-muse-personal-agent-launch-sentinel-vm-security-2026) - A teardown by explainx.ai of the Secure VM and Sentinel architecture: where credentials live, the five anti-prompt-injection layers, and the public bug bounty.
 - [Dox for Me, O Muse](https://newsletter.hntrbrk.com/p/dox-for-me-o-muse-metas-new-ai-agent) - Hunterbrook investigation: Muse compiled lists of real Facebook and Instagram accounts in vulnerable groups on plain-language request, with safeguards easily evaded; Meta asked for details, no comment.
+- [Meta Rushed to Fix Muse 'VM Escape' Vulnerability Soon Before Launch](https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/) - 404 Media on the pre-launch scramble to fix KVM escape flaws that could have let a Muse user reach Meta's internal databases, and the engineers who still call that boundary risky.
 
 ## Reviews and Hands-On
 
