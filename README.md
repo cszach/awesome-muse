@@ -118,6 +118,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Everything We Announced at Meta Connect 2026](https://www.meta.com/blog/meta-connect-2026-everything-we-announced/) 🎖️ - Includes Muse on AI glasses and new connectors.
 - [Muse Charm](https://www.meta.com/muse-charm/) 🎖️ - Keychain-sized companion device for Muse, announced at Connect 2026.
 - [Muse Is Coming to Meta's AI Glasses](https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/) - Engadget on using Muse hands-free.
+- [Meta's Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/) - TechCrunch on Muse's dedicated iPad app and the new connectors it shipped with, including Notion, Granola, and a small-business suite.
 
 ## Privacy, Safety, and Security
 
@@ -136,6 +137,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Meta Muse: Personal Agent + Sentinel VM Security](https://www.explainx.ai/blog/meta-muse-personal-agent-launch-sentinel-vm-security-2026) - A teardown by explainx.ai of the Secure VM and Sentinel architecture: where credentials live, the five anti-prompt-injection layers, and the public bug bounty.
 - [Dox for Me, O Muse](https://newsletter.hntrbrk.com/p/dox-for-me-o-muse-metas-new-ai-agent) - Hunterbrook investigation: Muse compiled lists of real Facebook and Instagram accounts in vulnerable groups on plain-language request, with safeguards easily evaded; Meta asked for details, no comment.
 - [Meta Rushed to Fix Muse 'VM Escape' Vulnerability Soon Before Launch](https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/) - 404 Media on the pre-launch scramble to fix KVM escape flaws that could have let a Muse user reach Meta's internal databases, and the engineers who still call that boundary risky.
+- [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) - Wired on the internal instructions a researcher pulled from Muse: an hourly process that keeps a page on every person in a user's life, including people who never installed Muse.
 
 ## Reviews and Hands-On
 
