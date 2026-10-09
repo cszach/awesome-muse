@@ -112,6 +112,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Muse-charm-mosaico](https://github.com/samyeei/Muse-charm-mosaico) - Voice AI companion on ESP-Mosaico hardware with push-to-talk, eight animated character states, and Muse-generated personas.
 - [luci-muse-gadget](https://github.com/burndown/luci-muse-gadget) - Runs the Gadget SDK Linux client on OpenWrt routers with a LuCI page, so your router shows up as a Muse gadget.
 - [muse-gadget-macos](https://github.com/rjohnt/muse-gadget-macos) - CoreBluetooth adapter that pairs a Mac with the Muse app as a display gadget, with a live browser preview.
+- [muse-gadget-zh-hant](https://github.com/leungcheukfai/muse-gadget-zh-hant) - Traditional Chinese add-on for the ESP32 Gadget SDK: CJK UI font, Traditional Chinese captions, Cantonese or Mandarin speech via Fish Audio TTS, and local "Hey Muse" wake detection for Waveshare and M5Stack boards.
+- [muse-gadget-sdk fork by ledienbien-ai](https://github.com/ledienbien-ai/muse-gadget-sdk) - Unofficial Gadget SDK fork adding ESP32-S3 boards upstream does not support (OSTB-3ST, LCDWIKI ES3C28P, Espressif EchoEar), with Vietnamese and English on-screen UI, spoken replies, and a web flasher.
 
 ## Where to Use Muse
 
@@ -147,6 +149,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 
 ## News and Analysis
 
+- [Sierra Unveils Personal Agent Protocol in Development With Meta and Partners](https://www.unite.ai/sierra-unveils-personal-agent-protocol-built-with-meta-and-partners/) - Unite.AI on Sierra's open standard, developed with Meta, Shopify, Stripe, and others, for how personal agents identify themselves to businesses and what access they get, with a v0.1 spec due later in October.
 - [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) - TechCrunch on the open-source Muse Gadgets launch, the free Home Link dongle giveaway, and Meta's pitch to hardware hackers.
 - [Don't Let the Adorable AI Agents Fool You](https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/) - Karissa Bell argues Muse's cute Jolly avatar hides the real risk of broad account access, and gets the backstory on the viral Marketplace address mix-up (an "allow always" misunderstanding).
 - [Musing About Meta's Muse](https://paulkedrosky.com/musing-about-metas-muse/) - Paul Kedrosky, after a couple of weeks on email and calendar scanning, argues Muse's real shift is its ambient invisibility, not the chatbot.
@@ -168,6 +171,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Muse Is Why Meta Has No Business Building the Agentic Web](https://www.youtube.com/watch?v=ybCF89NP4KE) - Critical walkthrough sorting Zuckerberg's Muse privacy and security claims by what exists today versus what is promised.
 
 - [Meta Muse Tips & Tricks | 6 Features You Should Be Using](https://www.youtube.com/watch?v=jbGYcOWvCZI) - Hands-on walkthrough of price tracking, Instagram integration, the credential store, and Muse Wallet.
+- [Meta Muse Lightning Demo for Absolute Beginners](https://www.youtube.com/watch?v=1ruyEeWvEbY) - Allie K. Miller walks a first-time user from download to first real tasks: connecting Gmail and Calendar, the permissions to read first, Muse's virtual browser, and a subscription audit that found over $1,000 a year in forgotten charges.
 
 ## Contributing
 
