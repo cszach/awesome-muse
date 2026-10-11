@@ -173,6 +173,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Meta Muse Tips & Tricks | 6 Features You Should Be Using](https://www.youtube.com/watch?v=jbGYcOWvCZI) - Hands-on walkthrough of price tracking, Instagram integration, the credential store, and Muse Wallet.
 - [Meta Muse Lightning Demo for Absolute Beginners](https://www.youtube.com/watch?v=1ruyEeWvEbY) - Allie K. Miller walks a first-time user from download to first real tasks: connecting Gmail and Calendar, the permissions to read first, Muse's virtual browser, and a subscription audit that found over $1,000 a year in forgotten charges.
 
+- [How I AI: Meta's Muse Review](https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp) - Claire Vo's hands-on podcast review: family calendar, a morning brief, and long-running personal goals, plus where Muse's browser use falls short.
+
 ## Contributing
 
 Found something great? Read the [contribution guidelines](contributing.md), then submit it. We add fewer things than we are sent, on purpose.
