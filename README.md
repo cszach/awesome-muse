@@ -94,6 +94,8 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [Muse Pocket](https://github.com/viticci/muse-pocket) - E-paper Muse companion for the Xteink X4 Pro e-reader, showing your Muse's character and live status, built on the Gadget SDK.
 - [Muse-Chat-MCP](https://github.com/duclm1x1/Muse-Chat-MCP) - MCP server plus OpenAI-compatible shim that drives your own logged-in Chrome for muse.ai. Browser-automation approach; review what it can touch before connecting.
 - [muse-plex-skill](https://github.com/RobertBergman/muse-plex-skill) - Gadget skill that plays music from your Plex server on a Bluetooth speaker attached to the Muse device.
+- [muse-local-gateway](https://github.com/Toddoward/muse-local-gateway) - Lets Muse work on your own computer over Tailscale: one shared folder and a sandboxed shell, instead of only its cloud computer.
+- [muse-gadget-forge](https://github.com/Toddoward/muse-gadget-forge) - Skill that lets Muse build its own gadget: sets up ESP-IDF, builds Gadget SDK firmware, and flashes an ESP32 board on your desk.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
