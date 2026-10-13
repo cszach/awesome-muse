@@ -119,6 +119,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [muse-gadget-zh-hant](https://github.com/leungcheukfai/muse-gadget-zh-hant) - Traditional Chinese add-on for the ESP32 Gadget SDK: CJK UI font, Traditional Chinese captions, Cantonese or Mandarin speech via Fish Audio TTS, and local "Hey Muse" wake detection for Waveshare and M5Stack boards.
 - [muse-gadget-sdk fork by ledienbien-ai](https://github.com/ledienbien-ai/muse-gadget-sdk) - Unofficial Gadget SDK fork adding ESP32-S3 boards upstream does not support (OSTB-3ST, LCDWIKI ES3C28P, Espressif EchoEar), with Vietnamese and English on-screen UI, spoken replies, and a web flasher.
 - [rdk-x5-muse-gadget](https://github.com/shockley6668/rdk-x5-muse-gadget) - Touchscreen Muse UI on a Horizon Robotics RDK X5: LVGL frontend with animated avatar, hold-to-talk, captions, and Edge TTS replies, with dated on-hardware test results.
+- [rokid-muse-aiui](https://github.com/Eis4TY/rokid-muse-aiui) - Muse on Rokid glasses via the Gadget SDK and Rokid AIUI: hold-to-record voice input, streaming replies, and an animated avatar, with per-device pairing and no computer needed for daily use.
+- [rayban-meta-core2-muse](https://github.com/mmaziesf/rayban-meta-core2-muse) - Lets Muse see through Ray-Ban Meta glasses: frames relay through an iPhone app to an M5Stack Core2 running Gadget SDK firmware, with a wake word, hands-free turns, and spoken replies.
 
 ## Where to Use Muse
 
