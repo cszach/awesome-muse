@@ -122,6 +122,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [rokid-muse-aiui](https://github.com/Eis4TY/rokid-muse-aiui) - Muse on Rokid glasses via the Gadget SDK and Rokid AIUI: hold-to-record voice input, streaming replies, and an animated avatar, with per-device pairing and no computer needed for daily use.
 - [rayban-meta-core2-muse](https://github.com/mmaziesf/rayban-meta-core2-muse) - Lets Muse see through Ray-Ban Meta glasses: frames relay through an iPhone app to an M5Stack Core2 running Gadget SDK firmware, with a wake word, hands-free turns, and spoken replies.
 
+- [lux-watch](https://github.com/arvindavidson/lux-watch) - Unofficial Wear OS app that turns a Samsung Galaxy Watch into a Muse voice gadget: tap to talk, replies shown and spoken on your wrist, and a watch face with Muse's avatar, tested on a Galaxy Watch4 Classic.
+
 ## Where to Use Muse
 
 - [Everything We Announced at Meta Connect 2026](https://www.meta.com/blog/meta-connect-2026-everything-we-announced/) 🎖️ - Includes Muse on AI glasses and new connectors.
