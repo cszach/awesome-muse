@@ -77,6 +77,7 @@ Connectors give Muse access to your services, such as email, calendar, shopping,
 - [What the Muse Connector Application Asks For](https://stacktr.ee/blog/muse-connector-platform) - Walkthrough of the connector platform's application form.
 - [dowser](https://github.com/harris-ryder/dowser) - Read-only MCP connector that finds the money hiding in your life; works with Muse and other agents.
 - [muse-linkedin-connector](https://github.com/gops22/muse-linkedin-connector) - Custom connector linking Muse to LinkedIn.
+- [muse-discord](https://github.com/cszach/muse-discord) - Open-source base for running your Muse as a Discord bot: mention and DM replies, welcome and media-generation plugins, and a watchdog that keeps it online 24/7.
 - [muse-atlassian-skill](https://github.com/RobertDeRose/muse-atlassian-skill) - Workspace skills giving Muse Jira and Confluence access: search, read, create, and update from chat.
 - [oura-muse](https://github.com/MDrooker/oura-muse) - Muse skill and CLI for your Oura Ring data: sleep, readiness, activity, and heart rate via the official Oura API v2.
 - [Family Hub](https://github.com/maddy13182/museFamilyconnector) - Self-hosted hub that lets each family member's Muse agent message and delegate tasks to the others, with private parent threads and an audit log.
