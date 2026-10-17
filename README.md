@@ -172,6 +172,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Spotify Is First Music Service to Connect to Meta Muse](https://musically.com/2026/09/24/spotify-is-first-music-service-to-connect-to-meta-muse-ai-agent/) - Music Ally on Spotify's Muse connector: playback, playlists, and podcast controls by conversation.
 - [Meta expands Muse AI agent for small businesses](https://www.reuters.com/business/media-telecom/meta-expands-muse-ai-agent-small-businesses-2026-09-29/) - Reuters on Muse for Small Business: connectors for Shopify, QuickBooks, Slack, and more.
 
+- [After Muse Launch, U.S. Banks Are Saying Hell No to AI Agents Moving Money](https://gizmodo.com/?p=2000827221) - Gizmodo on JPMorgan Chase and Charles Schwab blocking Muse from moving money in customer accounts, with read-only access staying and Schwab reporting blocked attempts in the tens per week.
+
 ## Videos and Podcasts
 
 - [Mark Zuckerberg on Muse](https://sources.news/p/mark-zuckerberg-meta-muse-ai-podcast-interview) - Sources podcast interview about the vision behind Muse.
