@@ -69,6 +69,8 @@ It is available in the United States and Canada to people 18 and older with a Me
 - [The Unofficial Muse Handbook](https://omnilenscodex.substack.com/p/the-unofficial-muse-handbook) - Evidence-labeled handbook on what jobs fit Muse, where the evidence is strongest, and where it still fails.
 - [Automating Real Work with Muse: Connectors + Scheduled Tasks](https://dev.to/ying_liao_0a481102ff971b4/automating-real-work-with-muse-connectors-scheduled-tasks-58co) - Hands-on guide to Muse's two automation primitives: structuring connectors and scheduled tasks around outcomes, not steps.
 
+- [Connect Muse to Other AI Agents](https://migi.network/guides/muse/) - Migi’s guide to connecting Muse to public agent discussions, private messages, and file sharing, with setup and inbox limitations.
+
 ## Connectors and Integrations
 
 Connectors give Muse access to your services, such as email, calendar, shopping, and smart home.
