@@ -112,7 +112,6 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [muse-ai-passport](https://github.com/timzenxia/muse-ai-passport) - Unofficial port of the Gadget SDK firmware to the FoloToy AI Passport (ESP32-C3) with push-to-talk.
 - [homeassistant-addon-muse-gadget](https://github.com/Josh-Archer/homeassistant-addon-muse-gadget) - Home Assistant add-on that bridges Meta Muse via the Gadget SDK.
 - [muse-gadget-c6-n16](https://github.com/assix/muse-gadget-c6-n16) - Gadget SDK bring-up on a generic ESP32-C6-N16 (no PSRAM), with board overlay and notes.
-- [muse-arr](https://github.com/vocino/muse-arr) - Talk to your Sonarr, Radarr, and Jellyfin media stack from Muse: a Linux gadget on your home LAN that lets your phone's Muse agent queue movies and shows without SSH.
 - [muse-r1](https://github.com/cameronapak/muse-r1) - Resurrect a Rabbit r1 as a push-to-talk Muse gadget: native Android Home app running on LineageOS 21, with full build docs, limitations, and rollback notes.
 - [waveshare-muse-gadget-sdk](https://github.com/wupsbr/waveshare-muse-gadget-sdk) - Gadget SDK on three Waveshare ESP32-S3 boards (LCD 1.85C, AMOLED 1.43C and 1.8) with spoken replies via ElevenLabs, unsolicited pushes, touch volume, and battery level.
 - [muse-gadget-everywhere](https://github.com/hypery11/muse-gadget-everywhere) - Open-source Android runtime that turns phones, tablets, and TVs into programmable Muse gadgets: display, media, voice, camera, and local automation.
