@@ -127,6 +127,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [lux-watch](https://github.com/arvindavidson/lux-watch) - Unofficial Wear OS app that turns a Samsung Galaxy Watch into a Muse voice gadget: tap to talk, replies shown and spoken on your wrist, and a watch face with Muse's avatar, tested on a Galaxy Watch4 Classic.
 
 - [portal-muse](https://github.com/wobsoriano/portal-muse) - Muse on a first-generation Meta Portal as a sideloaded Android app, no root: tap to ask or use hands-free "Hey Muse", with answers shown and spoken on the Portal's screen.
+- [muse-glasses](https://github.com/sidart10/muse-glasses) - Talk to Muse from Meta Ray-Ban Display glasses: a Mac pairs as a Gadget SDK gadget and relays to a glasses web app, with dictated questions, spoken answers, and approval cards shown on the lens.
 
 ## Where to Use Muse
 
