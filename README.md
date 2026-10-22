@@ -154,6 +154,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Dox for Me, O Muse](https://newsletter.hntrbrk.com/p/dox-for-me-o-muse-metas-new-ai-agent) - Hunterbrook investigation: Muse compiled lists of real Facebook and Instagram accounts in vulnerable groups on plain-language request, with safeguards easily evaded; Meta asked for details, no comment.
 - [Meta Rushed to Fix Muse 'VM Escape' Vulnerability Soon Before Launch](https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/) - 404 Media on the pre-launch scramble to fix KVM escape flaws that could have let a Muse user reach Meta's internal databases, and the engineers who still call that boundary risky.
 - [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) - Wired on the internal instructions a researcher pulled from Muse: an hourly process that keeps a page on every person in a user's life, including people who never installed Muse.
+- [GhostShares](https://blog.claroc.io/ghostshares-muse-passive-dns/) - Claroc found 6,800+ Muse share links in one passive-DNS query, because each share puts its conversation title and ID in its hostname; Meta paused Muse sharing on October 20 while it reviews the report.
 
 ## Reviews and Hands-On
 
