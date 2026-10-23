@@ -83,6 +83,8 @@ Connectors give Muse access to your services, such as email, calendar, shopping,
 - [muse-atlassian-skill](https://github.com/RobertDeRose/muse-atlassian-skill) - Workspace skills giving Muse Jira and Confluence access: search, read, create, and update from chat.
 - [oura-muse](https://github.com/MDrooker/oura-muse) - Muse skill and CLI for your Oura Ring data: sleep, readiness, activity, and heart rate via the official Oura API v2.
 - [Family Hub](https://github.com/maddy13182/museFamilyconnector) - Self-hosted hub that lets each family member's Muse agent message and delegate tasks to the others, with private parent threads and an audit log.
+- [wechat-ilink-muse-bridge](https://github.com/gfydfhcf/wechat-ilink-muse-bridge) - Chat with your Muse through WeChat over the official iLink device protocol: owner binding with an unknown-sender queue, plus a one-command self-hosted setup.
+
 
 ## Community Tools
 
@@ -164,6 +166,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 
 ## News and Analysis
 
+- [Meta launches Muse in Japan](https://superpowerdaily.com/posts/meta-launches-muse-in-japan-taking-its-ai-agent-beyond-north-america) - Muse launched in Japan on October 23, its first market outside North America, via iOS, Android, and the web; Japan-specific integrations (Mercari, Money Forward ME, Ticket Pia) are in development.
 - [Sierra Unveils Personal Agent Protocol in Development With Meta and Partners](https://www.unite.ai/sierra-unveils-personal-agent-protocol-built-with-meta-and-partners/) - Unite.AI on Sierra's open standard, developed with Meta, Shopify, Stripe, and others, for how personal agents identify themselves to businesses and what access they get, with a v0.1 spec due later in October.
 - [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/) - TechCrunch on the open-source Muse Gadgets launch, the free Home Link dongle giveaway, and Meta's pitch to hardware hackers.
 - [Don't Let the Adorable AI Agents Fool You](https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/) - Karissa Bell argues Muse's cute Jolly avatar hides the real risk of broad account access, and gets the backstory on the viral Marketplace address mix-up (an "allow always" misunderstanding).
