@@ -101,6 +101,7 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [muse-plex-skill](https://github.com/RobertBergman/muse-plex-skill) - Gadget skill that plays music from your Plex server on a Bluetooth speaker attached to the Muse device.
 - [muse-local-gateway](https://github.com/Toddoward/muse-local-gateway) - Lets Muse work on your own computer over Tailscale: one shared folder and a sandboxed shell, instead of only its cloud computer.
 - [muse-gadget-forge](https://github.com/Toddoward/muse-gadget-forge) - Skill that lets Muse build its own gadget: sets up ESP-IDF, builds Gadget SDK firmware, and flashes an ESP32 board on your desk.
+- [pi-muse-bridge](https://github.com/finik/pi-muse-bridge) - Pi extension that adds Muse as a model in Pi, for chat and for coding through Pi's tools, built on the official Gadget SDK with no undocumented features.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
@@ -130,6 +131,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 
 - [portal-muse](https://github.com/wobsoriano/portal-muse) - Muse on a first-generation Meta Portal as a sideloaded Android app, no root: tap to ask or use hands-free "Hey Muse", with answers shown and spoken on the Portal's screen.
 - [muse-glasses](https://github.com/sidart10/muse-glasses) - Talk to Muse from Meta Ray-Ban Display glasses: a Mac pairs as a Gadget SDK gadget and relays to a glasses web app, with dictated questions, spoken answers, and approval cards shown on the lens.
+- [muse-gadget-waveshare-lcd-1.85b](https://github.com/HunterShieh/muse-gadget-waveshare-lcd-1.85b) - Gadget SDK port for the Waveshare ESP32-S3-Touch-LCD-1.85B round touch LCD, with spoken replies, CJK captions, and battery and deep-sleep handling.
+- [muse-watch](https://github.com/breno12321/muse-watch) - Apple Watch app that talks to Muse through a paired iPhone: record a voice note on the watch, read the real reply in chat, with cached conversations and bookmarks.
 
 ## Where to Use Muse
 
@@ -156,7 +159,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [Dox for Me, O Muse](https://newsletter.hntrbrk.com/p/dox-for-me-o-muse-metas-new-ai-agent) - Hunterbrook investigation: Muse compiled lists of real Facebook and Instagram accounts in vulnerable groups on plain-language request, with safeguards easily evaded; Meta asked for details, no comment.
 - [Meta Rushed to Fix Muse 'VM Escape' Vulnerability Soon Before Launch](https://www.404media.co/meta-rushed-to-fix-muse-vm-escape-vulnerability-immediately-before-launch/) - 404 Media on the pre-launch scramble to fix KVM escape flaws that could have let a Muse user reach Meta's internal databases, and the engineers who still call that boundary risky.
 - [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) - Wired on the internal instructions a researcher pulled from Muse: an hourly process that keeps a page on every person in a user's life, including people who never installed Muse.
-- [GhostShares](https://blog.claroc.io/ghostshares-muse-passive-dns/) - Claroc found 6,800+ Muse share links in one passive-DNS query, because each share puts its conversation title and ID in its hostname; Meta paused Muse sharing on October 20 while it reviews the report.
+- [GhostShares](https://blog.claroc.io/ghostshares-muse-passive-dns/) - Claroc found 6,800+ Muse share links in one passive-DNS query, because each share puts its conversation title and ID in its hostname; Meta paused artifact sharing on October 20, then restored it on October 22 with old links replaced.
 
 ## Reviews and Hands-On
 
