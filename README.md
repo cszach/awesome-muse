@@ -102,6 +102,7 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [muse-local-gateway](https://github.com/Toddoward/muse-local-gateway) - Lets Muse work on your own computer over Tailscale: one shared folder and a sandboxed shell, instead of only its cloud computer.
 - [muse-gadget-forge](https://github.com/Toddoward/muse-gadget-forge) - Skill that lets Muse build its own gadget: sets up ESP-IDF, builds Gadget SDK firmware, and flashes an ESP32 board on your desk.
 - [pi-muse-bridge](https://github.com/finik/pi-muse-bridge) - Pi extension that adds Muse as a model in Pi, for chat and for coding through Pi's tools, built on the official Gadget SDK with no undocumented features.
+- [english-exam-coach](https://github.com/masudahiroto/english-exam-coach) - Muse skill that runs IELTS-style English exam practice with timed stages, scoring, and learner adaptation, no external API key needed.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
