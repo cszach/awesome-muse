@@ -132,7 +132,6 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 
 - [portal-muse](https://github.com/wobsoriano/portal-muse) - Muse on a first-generation Meta Portal as a sideloaded Android app, no root: tap to ask or use hands-free "Hey Muse", with answers shown and spoken on the Portal's screen.
 - [muse-glasses](https://github.com/sidart10/muse-glasses) - Talk to Muse from Meta Ray-Ban Display glasses: a Mac pairs as a Gadget SDK gadget and relays to a glasses web app, with dictated questions, spoken answers, and approval cards shown on the lens.
-- [muse-gadget-waveshare-lcd-1.85b](https://github.com/HunterShieh/muse-gadget-waveshare-lcd-1.85b) - Gadget SDK port for the Waveshare ESP32-S3-Touch-LCD-1.85B round touch LCD, with spoken replies, CJK captions, and battery and deep-sleep handling.
 - [muse-watch](https://github.com/breno12321/muse-watch) - Apple Watch app that talks to Muse through a paired iPhone: record a voice note on the watch, read the real reply in chat, with cached conversations and bookmarks.
 
 ## Where to Use Muse
