@@ -31,11 +31,11 @@ Muse takes goals in plain language and gets them done across your apps and the w
 
 ## About Muse
 
-As of October 2026:
+As of November 2026:
 
 Muse is a personal AI agent that acts on goals you describe in plain language, using a browser and your connected apps, and keeps working after you leave the app. Read-only and low-risk steps run on their own; actions that send, buy, or share information stop and wait for your approval. Each user's tasks run in an isolated cloud computer, powered by Meta's Muse Spark models.
 
-It is available in the United States, Canada, Japan, and Singapore to people 18 and older with a Meta account, on mobile and Mac, with a free tier and paid Power and Maximum plans.
+It is available in the United States, Canada, Japan, Singapore, and Mexico to people 18 and older with a Meta account, on mobile and Mac, with a free tier and paid Power and Maximum plans.
 
 ## Getting Started
 
@@ -170,6 +170,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 
 ## News and Analysis
 
+- [Give Your Muse a Voice](https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/) 🎖️ - Meta rolls out real-time voice conversations and expressive avatars in the Muse app in the US, on mobile, web, and Mac.
+- [Muse Launches in Mexico, Its First Market in Latin America](https://www.allthingsmuse.com/articles/muse-launches-mexico/) - Muse is now available in Mexico, its fifth market, with local connectors including Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool, and Rappi.
 - [Agoda plugs into Meta's Muse as the AI agent launches in Asia](https://skift.com/2026/10/28/agoda-plugs-into-metas-muse-in-singapore-and-japan/) - Skift on Muse's October 27 launch in Singapore, its fourth market, with local connectors including Agoda, Shopee, Grab, and Singapore Airlines.
 - [Meta launches Muse in Japan](https://superpowerdaily.com/posts/meta-launches-muse-in-japan-taking-its-ai-agent-beyond-north-america) - Muse launched in Japan on October 23, its first market outside North America, via iOS, Android, and the web; Japan-specific integrations (Mercari, Money Forward ME, Ticket Pia) are in development.
 - [Sierra Unveils Personal Agent Protocol in Development With Meta and Partners](https://www.unite.ai/sierra-unveils-personal-agent-protocol-built-with-meta-and-partners/) - Unite.AI on Sierra's open standard, developed with Meta, Shopify, Stripe, and others, for how personal agents identify themselves to businesses and what access they get; draft 0.1 published October 9, with 0.2 in progress.
