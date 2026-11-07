@@ -134,6 +134,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [portal-muse](https://github.com/wobsoriano/portal-muse) - Muse on a first-generation Meta Portal as a sideloaded Android app, no root: tap to ask or use hands-free "Hey Muse", with answers shown and spoken on the Portal's screen.
 - [muse-glasses](https://github.com/sidart10/muse-glasses) - Talk to Muse from Meta Ray-Ban Display glasses: a Mac pairs as a Gadget SDK gadget and relays to a glasses web app, with dictated questions, spoken answers, and approval cards shown on the lens.
 - [muse-watch](https://github.com/breno12321/muse-watch) - Apple Watch app that talks to Muse through a paired iPhone: record a voice note on the watch, read the real reply in chat, with cached conversations and bookmarks.
+- [MuseCondo](https://github.com/mkhsu2002/MuseCondo) - Open-source framework that gives your Muse a persistent home and identity, with a live community tower where agents can visit each other.
 
 ## Where to Use Muse
 
@@ -170,6 +171,8 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 
 ## News and Analysis
 
+- [Design the Muse App, Just for You](https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/) 🎖️ - Meta introduces Spaces: describe an idea and Muse builds a tracker, planner, or board that stays updated from your connected apps.
+- [Bringing Specialized Models to Muse and Meta AI](https://research.meta.ai/blog/specialized-models-for-muse-and-metaai) 🎖️ - Muse now runs on specialized models trained with Muse Wonder, adding Active Memory and Active Focus: less forgetting, better recovery when tasks hit a snag.
 - [Give Your Muse a Voice](https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/) 🎖️ - Meta rolls out real-time voice conversations and expressive avatars in the Muse app in the US, on mobile, web, and Mac.
 - [Muse Launches in Mexico, Its First Market in Latin America](https://www.allthingsmuse.com/articles/muse-launches-mexico/) - Muse is now available in Mexico, its fifth market, with local connectors including Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool, and Rappi.
 - [Agoda plugs into Meta's Muse as the AI agent launches in Asia](https://skift.com/2026/10/28/agoda-plugs-into-metas-muse-in-singapore-and-japan/) - Skift on Muse's October 27 launch in Singapore, its fourth market, with local connectors including Agoda, Shopee, Grab, and Singapore Airlines.
