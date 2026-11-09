@@ -56,6 +56,7 @@ It is available in the United States, Canada, Japan, Singapore, and Mexico to pe
 - [Musecases](https://musecases.netlify.app/) - 150+ real Muse use cases collected from X.
 - [What People Are Actually Doing with Meta Muse](https://learnaiwithmariah.com/guides/meta-muse-use-cases/) - Roundup of what early users are doing with Muse.
 - [Ship with Muse](https://shipwithmuse.live/) - Curated catalog of 1,078+ real builds made with Meta Muse, each linked to its public source.
+- [Muse Use Cases: 17 Real Cases](https://muse300.com/use-cases/) - Seventeen real Muse use cases, each linked to and checked against its original X post.
 - [Cal AI Alternative: Turn Meta Muse Into Your Calorie Tracker](https://sidsaladi.substack.com/p/cal-ai-alternative-turn-meta-muse) - A 15-day experiment using Muse as a free calorie logger with one setup prompt, pitched as a real alternative to a paid tracking app.
 
 ## Tips and Best Practices
