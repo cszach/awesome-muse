@@ -137,6 +137,7 @@ What people are building with Muse and the Gadget SDK: hardware ports, demos, an
 - [muse-glasses](https://github.com/sidart10/muse-glasses) - Talk to Muse from Meta Ray-Ban Display glasses: a Mac pairs as a Gadget SDK gadget and relays to a glasses web app, with dictated questions, spoken answers, and approval cards shown on the lens.
 - [muse-watch](https://github.com/breno12321/muse-watch) - Apple Watch app that talks to Muse through a paired iPhone: record a voice note on the watch, read the real reply in chat, with cached conversations and bookmarks.
 - [MuseCondo](https://github.com/mkhsu2002/MuseCondo) - Open-source framework that gives your Muse a persistent home and identity, with a live community tower where agents can visit each other.
+- [Build Your Own AI Voice Assistant with an ESP32 and Meta's Muse Gadgets SDK](https://www.wavtron.in/blog/muse-gadgets-esp32-ai-assistant) - Step-by-step build of a talking AI puck on the Waveshare ESP32-S3 AMOLED board, plus five more gadget builds.
 
 ## Where to Use Muse
 
