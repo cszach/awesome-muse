@@ -106,6 +106,7 @@ Open-source projects built for Muse. Review the code and the permissions a tool 
 - [pi-muse-bridge](https://github.com/finik/pi-muse-bridge) - Pi extension that adds Muse as a model in Pi, for chat and for coding through Pi's tools, built on the official Gadget SDK with no undocumented features.
 - [english-exam-coach](https://github.com/masudahiroto/english-exam-coach) - Muse skill that runs IELTS-style English exam practice with timed stages, scoring, and learner adaptation, no external API key needed.
 - [muse-tidy-up](https://github.com/gaspanik/muse-tidy-up-skill) - Muse skill that restructures a Figma frame into a clean auto-layout hierarchy, no Figma AI credits needed.
+- [Muse Setup Kit](https://github.com/GreenJeans/muse-setup-kit) - Setup wizard that turns a fresh Muse into a disciplined personal agent: operating procedures with a ticket rule for irreversible actions, compiled memory, a morning brief, and opt-in modules for household coordination, multi-agent exchange, and gated skill self-improvement.
 
 Find more on the [`meta-muse` topic](https://github.com/topics/meta-muse).
 
